@@ -12,7 +12,7 @@ Run Command:
 python roll.py <input number of dice>
 ```
 
-- '<input number of dice>' (optional): Specify the number of dice to roll. Default is 1 if not provided.
+- `<input number of dice>` (optional): Specify the number of dice to roll. Default is 1 if not provided.
 
 ## Notes
 - The program assumes standard six-sided dice and does not support custom dice types or different numbers of sides;
